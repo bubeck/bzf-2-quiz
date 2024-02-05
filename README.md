@@ -10,4 +10,4 @@ https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/Funk
 
 1. Download PDF from the above website.
 2. python3 convert.py file-from-above.pdf
-3. Upload bzf-2.xlsx to quizglobal.com to create the quiz
+3. Upload bzf-2-quiz.xlsx to quizglobal.com to create the quiz
