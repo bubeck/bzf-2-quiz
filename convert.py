@@ -192,4 +192,4 @@ for q in questions:
     ws.append(row)
 
 # Save Excel file
-wb.save("bzf-2-quiz.xslx")
+wb.save("bzf-2-quiz.xlsx")
